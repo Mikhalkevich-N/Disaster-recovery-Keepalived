@@ -15,7 +15,7 @@
 - На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
   
 ### *Решение:*
-#### Схема pkt: [hsrp_advanced.pkt-1](../hsrp_advanced.pkt)
+#### Схема pkt: [hsrp_advanced.pkt-1](https://github.com/Mikhalkevich-N/Disaster-recovery-Keepalived/blob/main/hsrp_advanced.pkt)
 
 #### Настройки маршрутизатора:
 ![png](image.png)
